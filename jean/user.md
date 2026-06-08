@@ -37,3 +37,10 @@
 - 单次运动时长小于40min。
 - 每周4天运动。
 
+# 视频跟练偏好主播
+
+- [帕梅拉](https://space.bilibili.com/604003146?spm_id_from=333.337.0.0)
+- [Jo姐](https://space.bilibili.com/1462582672?spm_id_from=333.337.0.0)
+- [MIZI](https://space.bilibili.com/3546924525292135?spm_id_from=333.337.0.0)
+- [Anna](https://space.bilibili.com/3493094769036225?spm_id_from=333.337)
+- [欧阳春晓](https://space.bilibili.com/493570956?spm_id_from=333.337.0.0)
